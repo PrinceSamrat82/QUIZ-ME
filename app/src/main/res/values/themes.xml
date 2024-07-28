@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizMe" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="titleTextColor"> @color/color_white</item>
+    </style>
+
+    <style name="Theme.QuizMe"  parent="Base.Theme.QuizMe" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567621352790",
+    "project_id": "quiz-me-4fd27",
+    "storage_bucket": "quiz-me-4fd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567621352790:android:003110b94d7708c545aaf7",
+        "android_client_info": {
+          "package_name": "com.prince.quizme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZUTNXFFsCzmNSSVXOZAdCKEMYBauWlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

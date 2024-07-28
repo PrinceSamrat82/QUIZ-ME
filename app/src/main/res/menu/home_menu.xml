@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:title="Wallet" app:showAsAction="always" android:icon="@drawable/wallet_white"
+    android:iconTint="@color/color_white" android:id="@+id/wallet"
+    tools:ignore="HardcodedText,UnusedAttribute" />
+</menu>

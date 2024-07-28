@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz Me</string>
+    <string name="instructions">Instructions</string>
+    <string name="choose_category">- Choose Category</string>
+    <string name="play_quiz">- Play Quiz</string>
+    <string name="collect_coins">- Collect Coins</string>
+    <string name="earn_money">- Earn Money</string>
+    <string name="bottomBar">bottomBar</string>
+    <string name="home">Home</string>
+    <string name="rank">Rank</string>
+    <string name="wallet">Wallet</string>
+    <string name="profile">Profile</string>
+    <string name="Wallet">Wallet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="coin">coin</string>
+    <string name="wheel_stand">wheel stand</string>
+    <string name="arow">arow</string>
+    <string name="spiner_banner">spiner banner</string>
+    <string name="spinner_button">spinner button</string>
+    <string name="spinner_tab">spinner tab</string>
+    <string name="spinner_btn" />
+
+</resources>
